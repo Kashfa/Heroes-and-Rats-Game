@@ -1,7 +1,6 @@
 {
   "name": "homework",
   "version": "1.0.0",
-  "description": "",
   "main": "food.js",
   "scripts": {
     "test": "mocha specs"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.1.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashfa/Heroes-and-Rats-Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kashfa/Heroes-and-Rats-Game/issues"
+  },
+  "homepage": "https://github.com/Kashfa/Heroes-and-Rats-Game#readme",
+  "description": ""
 }
